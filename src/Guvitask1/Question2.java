@@ -1,4 +1,4 @@
-package guviclass;
+package Guvitask1;
 
 import java.util.Scanner;
 

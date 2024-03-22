@@ -1,4 +1,4 @@
-package guviclass;
+package Guvitask1;
 
 //Import Scanner class from java.util package
 import java.util.Scanner; 
